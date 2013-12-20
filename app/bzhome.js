@@ -107,7 +107,7 @@ $(document).ready(function() {
 var bzhome = {
    bugLimit: 20,
 
-   base: "https://bugzilla.mozilla.org",
+   base: "https://blrbugzilla.yodlee.com/",
 
    openStatus: ["REOPENED", "NEW", "ASSIGNED", "UNCONFIRMED"],
    
